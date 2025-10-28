@@ -3,7 +3,7 @@ name: Generate GitHub Skyline SVG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *" # chạy đầu mỗi tháng
+    - cron: "0 0 1 * *" # Chạy đầu mỗi tháng
 
 jobs:
   build:
@@ -13,34 +13,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install gh-skyline
+        run: |
+          npm install -g gh-skyline
+
       - name: Generate Skyline SVG
         run: |
-          # Cài dependencies nếu cần
-          sudo apt-get update
-          sudo apt-get install -y jq curl
-
-          # Cấu hình thông tin user
           USERNAME="khuonglaptri3"
-          YEAR="2024"
+          YEAR="$(date +%Y)" # tự động dùng năm hiện tại
           OUTPUT="assets/skyline.svg"
 
-          echo "🛰️ Fetching Skyline SVG for $USERNAME ($YEAR)..."
+          echo "🚀 Generating Skyline for $USERNAME ($YEAR)..."
 
-          # Dùng GitHub API chính thức
-          curl -s "https://skyline.github.com/${USERNAME}/${YEAR}.svg" -o $OUTPUT
-
-          # Kiểm tra file hợp lệ
-          if grep -q "DOCTYPE" "$OUTPUT"; then
-            echo "❌ Failed: Skyline page (HTML) was fetched instead of SVG"
-            exit 1
-          fi
+          gh-skyline --user $USERNAME --year $YEAR --format svg > $OUTPUT
 
           if [ ! -s "$OUTPUT" ]; then
-            echo "❌ Failed: Skyline SVG is empty."
+            echo "❌ Skyline SVG generation failed"
             exit 1
           fi
 
-          echo "✅ Skyline SVG generated successfully at $OUTPUT"
+          echo "✅ Skyline SVG created: $OUTPUT"
 
       - name: Commit and push changes
         run: |
