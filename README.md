@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6A5ACD,100:2EDAFF&text=✨%20Welcome%20to%20My%20Universe!%20✨&fontAlign=50&fontAlignY=35&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
+<!-- 🌆 Dynamic Skyline -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/skyline.svg" 
+       alt="Dynamic Skyline" width="100%"/>
+</p>
 
 <!-- ⚡ Typing Introduction -->
 <p align="center">
@@ -31,7 +36,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,postgresql,git,github,aws,vscode&perline=6" alt="Tech Stack Icons"/>
@@ -39,7 +44,7 @@
 
 ---
 
-### 💡 Skill Highlights  
+###  Skill Highlights  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -50,7 +55,7 @@
 
 ---
 
-### 🧠 Core Skills
+###  Core Skills
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
@@ -64,13 +69,13 @@
 
 ---
 
-### 🚀 Highlighted Projects  
+###  Highlighted Projects  
 
-#### 🧩 [Smart Traffic Detection (YOLOv8 + Flask)](https://github.com/khuonglaptri3)
+####  [Smart Traffic Detection (YOLOv8 + Flask)](https://github.com/khuonglaptri3)
 Real-time traffic detection app using YOLOv8 and OpenCV.  
 → Integrated **Flask web dashboard** and custom object tracking logic.  
 
-#### 📊 [Customer Churn Prediction](https://github.com/khuonglaptri3)
+####  [Customer Churn Prediction](https://github.com/khuonglaptri3)
 Machine learning pipeline predicting churn using feature engineering + SMOTE.  
 → Achieved **92% accuracy** and automated result visualization.  
 
@@ -80,7 +85,7 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 📌 Featured Repositories
+###  Featured Repositories
 <p align="center">
   <a href="https://github.com/khuonglaptri3/SmartTrafficDetection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khuonglaptri3&repo=SmartTrafficDetection&theme=radical" />
@@ -92,7 +97,7 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🏅 Certificates  
+###  Certificates  
 
 <p align="center">
   <a href="https://www.credly.com/badges/5ba920fd-4169-4340-99a8-2cd775034f59" target="_blank">
@@ -118,14 +123,14 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🧠 Quote of the Day  
+###  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every+dataset+hides+a+story+—+and+I’m+here+to+make+it+speak." />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khuonglaptri3&show_icons=true&theme=radical&hide_border=true" width="48%" />
