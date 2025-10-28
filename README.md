@@ -135,7 +135,7 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🐍 GitHub Snake Animation  
+### 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/snake.svg" alt="snake animation" width="90%"/>
