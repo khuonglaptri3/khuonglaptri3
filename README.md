@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6A5ACD,100:2EDAFF&text=✨%20Welcome%20to%20My%20Universe!%20✨&fontAlign=50&fontAlignY=35&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
-<!-- 🌆 Dynamic Skyline -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/main/assets/skyline.svg"
-       alt="Dynamic Skyline" width="90%" />
-</p>
 <!-- ⚡ Typing Introduction -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=1100&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;+Turning+Data+into+Intelligence" alt="Typing SVG" />
