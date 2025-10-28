@@ -1,21 +1,51 @@
-name: Update Skyline SVG
+name: Generate GitHub Skyline SVG
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *" # chạy mỗi tháng
+    - cron: "0 0 1 * *" # chạy đầu mỗi tháng
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Download Skyline SVG
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Skyline SVG
         run: |
-          curl -L "https://skyline.github.com/khuonglaptri3/2024.svg" -o assets/skyline.svg
-      - name: Commit changes
+          # Cài dependencies nếu cần
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+          # Cấu hình thông tin user
+          USERNAME="khuonglaptri3"
+          YEAR="2024"
+          OUTPUT="assets/skyline.svg"
+
+          echo "🛰️ Fetching Skyline SVG for $USERNAME ($YEAR)..."
+
+          # Dùng GitHub API chính thức
+          curl -s "https://skyline.github.com/${USERNAME}/${YEAR}.svg" -o $OUTPUT
+
+          # Kiểm tra file hợp lệ
+          if grep -q "DOCTYPE" "$OUTPUT"; then
+            echo "❌ Failed: Skyline page (HTML) was fetched instead of SVG"
+            exit 1
+          fi
+
+          if [ ! -s "$OUTPUT" ]; then
+            echo "❌ Failed: Skyline SVG is empty."
+            exit 1
+          fi
+
+          echo "✅ Skyline SVG generated successfully at $OUTPUT"
+
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/skyline.svg
-          git commit -m "update skyline.svg" || echo "No change"
+          git commit -m "🔄 Update Skyline SVG [skip ci]" || echo "No changes to commit"
           git push
