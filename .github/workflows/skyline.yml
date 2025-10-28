@@ -1,27 +1,21 @@
-name: Generate GitHub Skyline SVG
+name: Update Skyline SVG
 on:
-  schedule:
-    - cron: "0 0 1 * *" # Cập nhật đầu mỗi tháng
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *" # chạy mỗi tháng
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate Skyline SVG
-        uses: yangwenmai/github-skyline-action@master
-        with:
-          github_username: khuonglaptri3
-          year: 2024
-          output: assets/skyline.svg
-
-      - name: Commit and push changes
+      - uses: actions/checkout@v3
+      - name: Download Skyline SVG
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          curl -L "https://skyline.github.com/khuonglaptri3/2024.svg" -o assets/skyline.svg
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/skyline.svg
-          git commit -m "Update skyline.svg - [Skip GitHub Action]" || echo "No changes to commit"
+          git commit -m "update skyline.svg" || echo "No change"
           git push
