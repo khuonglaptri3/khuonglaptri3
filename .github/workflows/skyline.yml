@@ -2,7 +2,7 @@ name: Generate 3D Skyline
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Chạy mỗi tuần
+    - cron: "0 0 * * 0"  # Chạy mỗi tuần vào Chủ Nhật
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Skyline (3D)
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: khuonglaptri3
           SETTINGS: |
             {
@@ -23,8 +24,8 @@ jobs:
 
       - name: Commit & Push 3D Skyline
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "🗻 Update 3D Skyline" || echo "No changes to commit"
           git push
