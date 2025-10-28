@@ -1,48 +1,30 @@
-name: Generate GitHub Skyline SVG
+name: Generate 3D Skyline
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *" # Chạy đầu mỗi tháng
+    - cron: "0 0 * * 0"  # Chạy mỗi tuần
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Install Node.js
-        uses: actions/setup-node@v4
+      - name: Generate GitHub Skyline (3D)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          node-version: 20
+          USERNAME: khuonglaptri3
+          SETTINGS: |
+            {
+              "theme": "night-green"
+            }
 
-      - name: Install gh-skyline
+      - name: Commit & Push 3D Skyline
         run: |
-          npm install -g gh-skyline
-
-      - name: Generate Skyline SVG
-        run: |
-          USERNAME="khuonglaptri3"
-          YEAR="$(date +%Y)" # tự động dùng năm hiện tại
-          OUTPUT="assets/skyline.svg"
-
-          echo "🚀 Generating Skyline for $USERNAME ($YEAR)..."
-
-          gh-skyline --user $USERNAME --year $YEAR --format svg > $OUTPUT
-
-          if [ ! -s "$OUTPUT" ]; then
-            echo "❌ Skyline SVG generation failed"
-            exit 1
-          fi
-
-          echo "✅ Skyline SVG created: $OUTPUT"
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/skyline.svg
-          git commit -m "🔄 Update Skyline SVG [skip ci]" || echo "No changes to commit"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add -A
+          git commit -m "🗻 Update 3D Skyline" || echo "No changes to commit"
           git push
