@@ -5,7 +5,7 @@
 
 <!-- ⚡ Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" alt="Typing SVG" />
 </p>
 
 <!-- 🖥️ Terminal Intro (Static replacement) -->
@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khuonglaptri3&label=Profile%20views&color=2EDAFF&style=for-the-badge" alt="Profile Views"/>
 </p>
----
 
 ### 👨‍💻 About Me  
 - 🎓 **3rd-year IT student @ HCMUTE (University of Technology and Education)**  
