@@ -147,9 +147,9 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🌍 3D Contributions
+### 🌍
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Contributions"/>
+  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Contributions" width="90%" alt="3D Contributions"/>
 </p>
 
 ---
