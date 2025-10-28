@@ -1,34 +1,22 @@
-name: Dynamic Skyline
+name: Generate Dynamic Skyline
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
-  workflow_dispatch:       # cho phép chạy thủ công
+    - cron: "0 0 * * *"  # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:      # cho phép chạy thủ công
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: Generate Skyline SVG
-        uses: ashutosh00710/github-readme-activity-graph@main
+        uses: lowlighter/metrics@latest
         with:
-          username: khuonglaptri3
-          theme: github
-          custom_title: "My GitHub Skyline"
-          hide_border: true
-
-      - name: Move output file
-        run: |
-          mkdir -p ./assets
-          mv ./graph.svg ./assets/skyline.svg
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add ./assets/skyline.svg
-          git commit -m "Updated Dynamic Skyline"
-          git push
+          filename: assets/skyline.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2025
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: '{"width": 800, "height": 400, "skyColor": "#0d1117", "buildingColor": "#2edaff"}'
