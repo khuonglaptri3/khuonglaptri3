@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=1000&color=2EDAFF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Tran+Dinh+Khuong;Data+Analysis,+Machine+Learning,+and+Computer+Vision" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khuonglaptri3&label=Profile%20views&color=2EDAFF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me  
@@ -21,6 +25,17 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,postgresql,git,github,aws,vscode" />
+</p>
+
+---
+
+### 💡 Skill Highlights  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-ML%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Backend%20API-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -77,6 +92,18 @@ Interactive visualization dashboard with live database connection.
   <a href="https://www.credly.com/badges/5ba920fd-4169-4340-99a8-2cd775034f59" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="130" alt="AWS ML Essentials Badge"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="130" alt="AWS Data Analytics Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" width="130" alt="AWS Cloud Practitioner Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/e716e350-c766-46c7-b24c-b1f0c7926122/c5368a29-86c8-4e69-a0bd-191bedf6c695.png" width="130" alt="AWS Cloud Foundations Badge"/>
+  </a>
 </p>
 
 ---
@@ -108,12 +135,30 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
+### 🐍 Contribution Activity Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="mailto:23110035@student.hcmute.edu.vn"><img src="https://img.shields.io/badge/Gmail-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kh%C6%B0%C6%A1ng-tr%E1%BA%A7n-%C4%91%C3%ACnh-685531320"><img src="https://img.shields.io/badge/LinkedIn-Trần%20Đình%20Khương-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.facebook.com/khueo"><img src="https://img.shields.io/badge/Facebook-@khuongdev-1877F2?style=for-the-badge&logo=facebook"></a>
-  <a href="https://github.com/khuonglaptri3"><img src="https://img.shields.io/badge/GitHub-khuonglaptri3-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:23110035@student.hcmute.edu.vn">
+    <img src="https://img.shields.io/badge/📬%20Email-Me-blue?style=for-the-badge">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kh%C6%B0%C6%A1ng-tr%E1%BA%A7n-%C4%91%C3%ACnh-685531320">
+    <img src="https://img.shields.io/badge/LinkedIn-Open%20To%20Opportunities-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/khueo">
+    <img src="https://img.shields.io/badge/Facebook-@khuongdev-1877F2?style=for-the-badge&logo=facebook">
+  </a>
+  &nbsp;
+  <a href="https://github.com/khuonglaptri3">
+    <img src="https://img.shields.io/badge/GitHub-khuonglaptri3-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
