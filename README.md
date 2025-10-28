@@ -1,6 +1,6 @@
 <!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=1000&color=2EDAFF&center=true&vCenter=true&width=850&lines=Hello,+I'm+Tran+Dinh+Khuong;Data+Analysis+|+Machine+Learning+|+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=1000&color=2EDAFF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Tran+Dinh+Khuong;Data+Analysis,+Machine+Learning,+and+Computer+Vision" />
 </p>
 
 ---
@@ -14,6 +14,14 @@
 - 🌱 Currently exploring **cloud-based ML workflows (AWS, Kaggle)**  
 
 > “Every dataset hides a story — and I’m here to make it speak.”
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,postgresql,git,github,aws,vscode" />
+</p>
 
 ---
 
@@ -47,6 +55,18 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
+### 📌 Featured Repositories
+<p align="center">
+  <a href="https://github.com/khuonglaptri3/SmartTrafficDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khuonglaptri3&repo=SmartTrafficDetection&theme=radical" />
+  </a>
+  <a href="https://github.com/khuonglaptri3/CustomerChurnPrediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khuonglaptri3&repo=CustomerChurnPrediction&theme=radical" />
+  </a>
+</p>
+
+---
+
 ### 🏅 Certificates  
 
 <p align="center">
@@ -61,20 +81,12 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🎯 Interests & Activities
-- 🤖 Kaggle contributor — model experimentation and dataset exploration  
-- 🧩 AI & Data Study Group at HCMUTE  
-- 📘 Passionate about cloud-integrated ML systems  
-- 🎵 Loves designing intuitive data dashboards and automations  
-
----
-
 ### 🪄 Soft Skills
 > Analytical Thinking • Teamwork • Problem-Solving • Communication • Adaptability  
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khuonglaptri3&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -83,6 +95,15 @@ Interactive visualization dashboard with live database connection.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khuonglaptri3&bg_color=0d1117&color=2EDAFF&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuonglaptri3&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khuonglaptri3&theme=onedark&no-frame=true&row=1&margin-w=15" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khuonglaptri3&theme=radical" width="90%" />
 </p>
 
 ---
