@@ -135,9 +135,11 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🐍 Contribution Activity Snake  
+### 🐍 GitHub Snake Animation  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/snake.svg" alt="snake animation" width="90%"/>
+</p>
 </p>
 
 ---
