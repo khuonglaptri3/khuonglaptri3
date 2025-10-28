@@ -1,6 +1,16 @@
-<!-- Futuristic Banner -->
+<!-- 🌌 Futuristic Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=1000&color=2EDAFF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Tran+Dinh+Khuong;Data+Analysis,+Machine+Learning,+and+Computer+Vision" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6A5ACD,100:2EDAFF&text=✨%20Welcome%20to%20My%20Universe!%20✨&fontAlign=50&fontAlignY=35&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ⚡ Typing Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" />
+</p>
+
+<!-- 🖥️ Terminal Intro -->
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?username=khuonglaptri3&theme=tokyonight&fontFamily=Fira+Code&animation=fadeIn" alt="Terminal Intro"/>
 </p>
 
 <p align="center">
@@ -24,7 +34,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,postgresql,git,github,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,postgresql,git,github,aws,vscode&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -88,28 +98,30 @@ Interactive visualization dashboard with live database connection.
   <a href="https://www.credly.com/badges/5ba920fd-4169-4340-99a8-2cd775034f59" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/7b3f119b-ada8-4ff6-817a-f2a8bbb7fe97/blob" width="130" alt="AWS AI Practitioner Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/5ba920fd-4169-4340-99a8-2cd775034f59" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="130" alt="AWS ML Essentials Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  &nbsp;&nbsp;
+  <a href="#">
     <img src="https://images.credly.com/size/220x220/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="130" alt="AWS Data Analytics Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  &nbsp;&nbsp;
+  <a href="#">
     <img src="https://images.credly.com/size/220x220/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" width="130" alt="AWS Cloud Practitioner Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
+  &nbsp;&nbsp;
+  <a href="#">
     <img src="https://images.credly.com/size/220x220/images/e716e350-c766-46c7-b24c-b1f0c7926122/c5368a29-86c8-4e69-a0bd-191bedf6c695.png" width="130" alt="AWS Cloud Foundations Badge"/>
   </a>
 </p>
 
 ---
 
-### 🪄 Soft Skills
-> Analytical Thinking • Teamwork • Problem-Solving • Communication • Adaptability  
+### 🧠 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every+dataset+hides+a+story+—+and+I’m+here+to+make+it+speak." />
+</p>
 
 ---
 
@@ -126,7 +138,7 @@ Interactive visualization dashboard with live database connection.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuonglaptri3&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=khuonglaptri3&theme=onedark&no-frame=true&row=1&margin-w=15" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khuonglaptri3&theme=matrix&no-frame=true&row=1&margin-w=15" width="45%" />
 </p>
 
 <p align="center">
@@ -135,11 +147,23 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🐍 Contributions
+### 🌍 3D Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Contributions"/>
+</p>
 
+---
+
+### 🐍 Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/snake.svg" alt="snake animation" width="90%"/>
 </p>
+
+---
+
+### 🛰️ Visitor Counter
+<p align="center">
+  <img src="https://count.getloli.com/get/@khuonglaptri3?theme=rule34" alt="Visitor Count" />
 </p>
 
 ---
