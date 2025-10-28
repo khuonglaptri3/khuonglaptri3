@@ -5,18 +5,18 @@
 
 <!-- ⚡ Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.r2.dev?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" />
 </p>
 
-<!-- 🖥️ Terminal Intro -->
+<!-- 🖥️ Terminal Intro (Static replacement) -->
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?username=khuonglaptri3&theme=tokyonight&fontFamily=Fira+Code&animation=fadeIn" alt="Terminal Intro"/>
+  <img src="https://img.shields.io/badge/🖥️_Welcome_to_My_Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2EDAFF" />
 </p>
 
+<!-- 👁️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khuonglaptri3&label=Profile%20views&color=2EDAFF&style=for-the-badge" alt="Profile Views"/>
 </p>
-
 ---
 
 ### 👨‍💻 About Me  
