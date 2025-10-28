@@ -5,8 +5,9 @@
 
 <!-- ⚡ Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=1100&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;+Turning+Data+into+Intelligence" alt="Typing SVG" />
 </p>
+
 
 <!-- 🖥️ Terminal Intro (Static replacement) -->
 <p align="center">
