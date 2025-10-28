@@ -5,12 +5,12 @@
 
 <!-- ⚡ Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.r2.dev?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=2EDAFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Tran+Dinh+Khuong;💻+Data+Analysis+%7C+Machine+Learning+%7C+Computer+Vision;🚀+Turning+Data+into+Intelligence" alt="Typing SVG" />
 </p>
 
 <!-- 🖥️ Terminal Intro (Static replacement) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🖥️_Welcome_to_My_Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2EDAFF" />
+  <img src="https://img.shields.io/badge/🖥️_Welcome_to_My_Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2EDAFF" alt="Terminal Badge" />
 </p>
 
 <!-- 👁️ Profile Views -->
