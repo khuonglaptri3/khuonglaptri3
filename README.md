@@ -122,7 +122,6 @@ Interactive visualization dashboard with live database connection.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every+dataset+hides+a+story+—+and+I’m+here+to+make+it+speak." />
 </p> -->
 
----
 
 ###  GitHub Stats  
 
