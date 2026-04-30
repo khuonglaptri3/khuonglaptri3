@@ -109,10 +109,7 @@ Interactive visualization dashboard with live database connection.
     <img src="https://images.credly.com/size/220x220/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" width="130" alt="AWS Cloud Practitioner Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://images.credly.com/size/220x220/images/e716e350-c766-46c7-b24c-b1f0c7926122/c5368a29-86c8-4e69-a0bd-191bedf6c695.png" width="130" alt="AWS Cloud Foundations Badge"/>
-  </a>
-  &nbsp;&nbsp;
+
 </p>
 
 ---
