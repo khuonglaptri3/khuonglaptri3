@@ -112,6 +112,7 @@ Interactive visualization dashboard with live database connection.
   <a href="#">
     <img src="https://images.credly.com/size/220x220/images/e716e350-c766-46c7-b24c-b1f0c7926122/c5368a29-86c8-4e69-a0bd-191bedf6c695.png" width="130" alt="AWS Cloud Foundations Badge"/>
   </a>
+  &nbsp;&nbsp;
 </p>
 
 ---
