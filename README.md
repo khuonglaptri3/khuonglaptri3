@@ -64,9 +64,10 @@
 
 ###  Highlighted Projects  
 
-####  [Smart Traffic Detection (YOLOv8 + Flask)](https://github.com/khuonglaptri3)
-Real-time traffic detection app using YOLOv8 and OpenCV.  
-→ Integrated **Flask web dashboard** and custom object tracking logic.  
+#### [Adult Income Prediction & Fairness-Oriented Feature Engineering](https://github.com/khuonglaptri3/Fair_Machine_Learning_Analyzing)
+
+Production-style data science workflow for binary income classification on the UCI Adult dataset.  
+→ Implemented modular feature engineering pipelines, robust preprocessing, fairness-conditioned interaction features, model training/evaluation, and interpretability analysis with reproducible notebook-based experimentation.
 
 ####  [Customer Churn Prediction](https://github.com/khuonglaptri3)
 Machine learning pipeline predicting churn using feature engineering + SMOTE.  
