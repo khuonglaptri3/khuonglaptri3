@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me  
 - 🎓 **3rd-year IT student @ HCMUTE (University of Technology and Education)**  
 - 📘 **Major:** Data Analysis, Machine Learning, and Computer Vision  
-- 🎯 **GPA:** 3.22 / 4.0  
+- 🎯 **GPA:** 3.28 / 4.0  
 - 💬 Passionate about transforming **data → insights → actions**  
 - ⚙️ Skilled in **Python, C++, and backend development**  
 - 🌱 Currently exploring **cloud-based ML workflows (AWS, Kaggle)**  
@@ -150,7 +150,7 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🐍 Snake Animation
+### 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khuonglaptri3/khuonglaptri3/output/snake.svg" alt="snake animation" width="90%"/>
 </p>
