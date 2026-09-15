@@ -9,21 +9,21 @@
 
 <!--  Terminal Intro (Static replacement) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🖥️_Welcome_to_My_Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2EDAFF" alt="Terminal Badge" />
+  <img src="https://img.shields.io/badge/Welcome_to_My_Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2EDAFF" alt="Terminal Badge" />
 </p>
 
-<!-- 👁️ Profile Views -->
+<!--  Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khuonglaptri3&label=Profile%20views&color=2EDAFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-### 👨‍💻 About Me  
-- 🎓 **3rd-year IT student @ HCMUTE (University of Technology and Education)**  
-- 📘 **Major:** Data Analysis, Machine Learning, and Computer Vision  
-- 🎯 **GPA:** 3.28 / 4.0  
-- 💬 Passionate about transforming **data → insights → actions**  
-- ⚙️ Skilled in **Python, C++, and backend development**  
-- 🌱 Currently exploring **cloud-based ML workflows (AWS, Kaggle)**  
+### About Me  
+-  **3rd-year IT student @ HCMUTE (University of Technology and Education)**  
+-  **Major:** Data Analysis, Machine Learning, and Computer Vision  
+-  **GPA:** 3.28 / 4.0  
+- Passionate about transforming **data → insights → actions**  
+-  Skilled in **Python, C++, and backend development**  
+- Currently exploring **cloud-based ML workflows (AWS, Kaggle)**  
 
 > “Every dataset hides a story — and I’m here to make it speak.”
 
@@ -73,7 +73,7 @@ Production-style data science workflow for binary income classification on the U
 Machine learning pipeline predicting churn using feature engineering + SMOTE.  
 → Achieved **92% accuracy** and automated result visualization.  
 
-#### 📈 [Data Visualization Dashboard (PostgreSQL + Plotly)](https://github.com/khuonglaptri3)
+####  [Data Visualization Dashboard (PostgreSQL + Plotly)](https://github.com/khuonglaptri3)
 Interactive visualization dashboard with live database connection.  
 → Designed for **data storytelling** and real-time analytics.
 
@@ -157,17 +157,17 @@ Interactive visualization dashboard with live database connection.
 
 ---
 
-### 🛰️ Visitor Counter
+###  Visitor Counter
 <p align="center">
   <img src="https://count.getloli.com/get/@khuonglaptri3?theme=rule34" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+###  Connect with Me  
 <p align="center">
   <a href="mailto:23110035@student.hcmute.edu.vn">
-    <img src="https://img.shields.io/badge/📬%20Email-Me-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/%20Email-Me-blue?style=for-the-badge">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kh%C6%B0%C6%A1ng-tr%E1%BA%A7n-%C4%91%C3%ACnh-685531320">
@@ -186,5 +186,5 @@ Interactive visualization dashboard with live database connection.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:2EDAFF&height=160&section=footer&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=22&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:2EDAFF&height=160&section=footer&text=%20Thanks%20for%20visiting!%20&fontSize=22&fontColor=ffffff&animation=twinkling" />
 </p>
