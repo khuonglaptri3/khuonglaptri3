@@ -1,3 +1,4 @@
+<!-- Profile last updated: 2026-11-08 -->
 <!-- Futuristic Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6A5ACD,100:2EDAFF&text=%20Welcome%20to%20My%20Universe!%20&fontAlign=50&fontAlignY=35&fontSize=28&fontColor=ffffff&animation=fadeIn" />
